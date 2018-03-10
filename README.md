@@ -17,7 +17,8 @@ There are three color modes:
 Feel free to pick the one you like at the bottom of the file bup.js.
 
 ## How to run
-Download/clone the repo, and open **index.html**. Alternatively you can host a local server to run it on. It should work straight away.
+It is possible to [run this script in your browser](https://winnie334.github.io/smart_bups/). If you want to change the code however,
+download or clone the repo, and open **index.html**. Alternatively you can host a local server to run it on. It should work straight away.
 If not, please report the bug so I can do absolutely nothing whatsoever to fix it.
 
 ## I found a bug / want to add a feature!
